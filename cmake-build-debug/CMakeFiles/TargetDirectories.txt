@@ -1,0 +1,3 @@
+C:/Users/Oscar/Homework/Computer science/Github/Euler-project/cmake-build-debug/CMakeFiles/Euler_project.dir
+C:/Users/Oscar/Homework/Computer science/Github/Euler-project/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Oscar/Homework/Computer science/Github/Euler-project/cmake-build-debug/CMakeFiles/rebuild_cache.dir
