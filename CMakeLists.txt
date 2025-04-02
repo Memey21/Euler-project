@@ -3,4 +3,5 @@ project(Euler_project C)
 
 set(CMAKE_C_STANDARD 11)
 
-add_executable(Euler_project "Question 4.c")
+add_executable(Euler_project
+        "Question 8.c")
