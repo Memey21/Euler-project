@@ -49,8 +49,8 @@ cmake_ninja_workdir = C$:/Users/Oscar/Homework/Computer$ science/Github/Euler-pr
 
 build cmake_object_order_depends_target_Euler_project: phony || .
 
-build CMakeFiles/Euler_project.dir/Question_10.c.obj: C_COMPILER__Euler_project_unscanned_Debug C$:/Users/Oscar/Homework/Computer$ science/Github/Euler-project/Question$ 10.c || cmake_object_order_depends_target_Euler_project
-  DEP_FILE = CMakeFiles\Euler_project.dir\Question_10.c.obj.d
+build CMakeFiles/Euler_project.dir/Question_932.c.obj: C_COMPILER__Euler_project_unscanned_Debug C$:/Users/Oscar/Homework/Computer$ science/Github/Euler-project/Question$ 932.c || cmake_object_order_depends_target_Euler_project
+  DEP_FILE = CMakeFiles\Euler_project.dir\Question_932.c.obj.d
   FLAGS = -g -std=gnu11 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\Euler_project.dir
   OBJECT_FILE_DIR = CMakeFiles\Euler_project.dir
@@ -63,7 +63,7 @@ build CMakeFiles/Euler_project.dir/Question_10.c.obj: C_COMPILER__Euler_project_
 #############################################
 # Link the executable Euler_project.exe
 
-build Euler_project.exe: C_EXECUTABLE_LINKER__Euler_project_Debug CMakeFiles/Euler_project.dir/Question_10.c.obj
+build Euler_project.exe: C_EXECUTABLE_LINKER__Euler_project_Debug CMakeFiles/Euler_project.dir/Question_932.c.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\Euler_project.dir
