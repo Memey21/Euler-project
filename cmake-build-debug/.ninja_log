@@ -1,6 +1,6 @@
 # ninja log v6
-547	1020	7676617459590704	Euler_project.exe	47609a71beca912b
 22	642	7652367239361626	CMakeFiles/Euler_project.dir/Question_7.c.obj	559b74badac3c246
+1347	2194	7731844541365863	Euler_project.exe	c25298936fcc9c71
 12	296	7643476515710307	CMakeFiles/Euler_project.dir/Question_4.c.obj	1aa137192b1402b4
 2467	3141	7652946424713901	CMakeFiles/Euler_project.dir/Question_9.c.obj	eff36be5542009d6
 13	1468	7652334060809261	CMakeFiles/Euler_project.dir/Question_5.c.obj	54aed39ea5913cb2
@@ -9,6 +9,16 @@
 14	2465	7652946400105920	CMakeFiles/Euler_project.dir/Question_8.c.obj	23ad4798e58b1aa5
 16	486	7652950294617639	CMakeFiles/Euler_project.dir/question_10.c.obj	ed4a5f9c5a72c656
 13	570	7652954617813695	CMakeFiles/Euler_project.dir/Question_10.c.obj	90c71014abd4a2a1
+16	1345	7731844528065831	CMakeFiles/Euler_project.dir/Question_14.c.obj	3cfbc4f1e1032106
 16	675	7666153362654611	CMakeFiles/Euler_project.dir/Question_12.c.obj	6b380d44256b3b1e
 13	338	7670488939815152	CMakeFiles/Euler_project.dir/Question_13.c.obj	c2c93285531826bc
 21	545	7676617454331061	CMakeFiles/Euler_project.dir/Question_932.c.obj	849169a8046134a
+27	1849	7731858672357991	build.ninja	2abd4b4f62a4f3b6
+7	630	7731866607261221	CMakeFiles/Euler_project.dir/Question_15.c.obj	dc8f4af5979440ae
+635	1307	7731866613672243	Euler_project.exe	7512b93909e8f53e
+14	675	7731869243499069	CMakeFiles/Euler_project.dir/Question_15.c.obj	dc8f4af5979440ae
+677	1200	7731869250165708	Euler_project.exe	7512b93909e8f53e
+13	585	7731869669361659	CMakeFiles/Euler_project.dir/Question_15.c.obj	dc8f4af5979440ae
+589	1041	7731869675127842	Euler_project.exe	7512b93909e8f53e
+13	567	7731869908972893	CMakeFiles/Euler_project.dir/Question_15.c.obj	dc8f4af5979440ae
+569	1436	7731869914518830	Euler_project.exe	7512b93909e8f53e
